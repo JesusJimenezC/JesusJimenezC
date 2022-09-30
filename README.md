@@ -47,5 +47,3 @@ class Bio extends SoftwareDeveloper {
 ### 💬 Contact Me
 
 [![Gmail](https://img.shields.io/badge/-jesus_heaven117@outlook.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:jesus_heaven117@outlook.com)
-
-[![Yue's github stats](https://github-readme-stats.vercel.app/api?username=ASASCED&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
