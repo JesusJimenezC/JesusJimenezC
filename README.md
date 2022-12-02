@@ -1,4 +1,4 @@
-## Jesus Jimenez Cordero | Software Developer (*The most part of the time :sweat_smile:*)
+## Jesus Jimenez Cordero | Software Developer
 
 ```js
 import SoftwareDeveloper from 'softtek';
