@@ -1,4 +1,4 @@
-## Jesus Jimenez Cordero | Front-end Developer (*The most part of the time :sweat_smile:*)
+## Jesus Jimenez Cordero | Software Developer (*The most part of the time :sweat_smile:*)
 
 ```js
 import SoftwareDeveloper from 'softtek';
@@ -45,7 +45,7 @@ class Bio extends SoftwareDeveloper {
 ![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgress](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### :skull: I have to use these, yes or yes
+### :skull: I have to use these, it's mandatory
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
