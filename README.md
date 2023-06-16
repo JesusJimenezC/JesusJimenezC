@@ -1,12 +1,12 @@
 ## Jesus Jimenez Cordero | Software Developer
 
 ```js
-import SoftwareDeveloper from 'softtek';
+import SoftwareDeveloper from 'ebay';
 
 class Bio extends SoftwareDeveloper {
   name     = 'Jesus Jimenez Cordero';
   title    = 'Software Engineer';
-  company  = 'Softtek';
+  company  = 'Ebay';
   location = 'Mexico, Mexico';
 }
 ```
