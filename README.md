@@ -12,7 +12,7 @@ class Bio extends SoftwareDeveloper {
 ```
 
 # 🛠 Tech Stack
-*I will try to place the technologies that I like the most and with which I feel more comfortable working, although that does not mean that in this profile you will not find more technologies implemented in the projects :wink:*
+*I will try to place the technologies that I like the most and with which I feel more comfortable working, although that does not mean that in this profile you will not find more technologies implemented in the projects* :wink:
 
 ### :star2: Programming languages I love
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
