@@ -6,7 +6,7 @@ import SoftwareDeveloper from 'ebay';
 class Bio extends SoftwareDeveloper {
   name     = 'Jesus Jimenez Cordero';
   title    = 'Software Engineer';
-  company  = 'Ebay';
+  company  = 'TCS';
   location = 'Mexico, Mexico';
 }
 ```
