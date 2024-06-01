@@ -1,7 +1,7 @@
 ## Jesus Jimenez Cordero | Software Developer
 
 ```js
-import SoftwareDeveloper from 'ebay';
+import SoftwareDeveloper from 'tcs';
 
 class Bio extends SoftwareDeveloper {
   name     = 'Jesus Jimenez Cordero';
