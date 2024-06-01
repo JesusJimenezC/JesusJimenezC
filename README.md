@@ -12,7 +12,7 @@ class Bio extends SoftwareDeveloper {
 ```
 
 # 🛠 Tech Stack
-*I will try to place the technologies that I like the most and with which I feel more comfortable working, although that does not mean that in this profile you will not find more technologies implemented in the projects* :wink:
+As a programmer, I have a deep passion for front-end development 🌐, where creativity and functionality meet to shape user experiences 🎨. I thrive on bringing designs to life with code 💻, ensuring a seamless and engaging interface 👨‍💻. However, I am equally eager to explore new technologies and environments as they emerge 🚀. My quick adaptability allows me to embrace challenges and opportunities 🌱, continuously expanding my skill set 📚. Whether it's delving into back-end frameworks 🛠️, cloud solutions ☁️, or innovative tools 🧰, I am committed to evolving and growing in the ever-changing tech landscape 🌍.
 
 ### :star2: Programming languages
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
