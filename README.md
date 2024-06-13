@@ -1,7 +1,7 @@
 ## Jesus Jimenez Cordero | Software Developer
 As a programmer, I have a deep passion for front-end development 🌐, where creativity and functionality meet to shape user experiences 🎨. I thrive on bringing designs to life with code 💻, ensuring a seamless and engaging interface 👨‍💻. However, I am equally eager to explore new technologies and environments as they emerge 🚀. My quick adaptability allows me to embrace challenges and opportunities 🌱, continuously expanding my skill set 📚. Whether it's delving into back-end frameworks 🛠️, cloud solutions ☁️, or innovative tools 🧰, I am committed to evolving and growing in the ever-changing tech landscape 🌍.
 
-# 🛠 Tech Stack
+# :toolbox: Tech Stack
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -20,6 +20,6 @@ As a programmer, I have a deep passion for front-end development 🌐, where cre
 <h2>GitHub Stats</h2>
 <p><img src="https://github-readme-stats.vercel.app/api?username=JesusJimenezC&amp;show_icons=true" alt="GitHub Stats"></p>
 
-### 💬 Contact Me
+### :email: Contact Me
 
 [![Gmail](https://img.shields.io/badge/-jesus.jimenezc.mx@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:jesus.jimenezc.mx@gmail.com)
