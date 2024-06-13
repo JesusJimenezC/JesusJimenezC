@@ -21,6 +21,6 @@ As a programmer, I have a deep passion for front-end development 🌐, where cre
 [![GitHub Streak](https://streak-stats.demolab.com?user=JesusJimenezC&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=380&card_height=165&hide_longest_streak=true)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesusJimenezC&layout=compact)
 
-### :email: Contact Me
+### Contact Info
 
 [![Gmail](https://img.shields.io/badge/-jesus.jimenezc.mx@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:jesus.jimenezc.mx@gmail.com)
