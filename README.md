@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3189F7&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Jesus+Jimenez+Cordero;And+I'm+a+Software+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4493F8&random=false&width=435&lines=Hello%2C+I'm+Jesus+Jimenez+Cordero;And+I'm+a+Software+Developer)](https://git.io/typing-svg)
 
 As a programmer, I have a deep passion for front-end development 🌐, where creativity and functionality meet to shape user experiences 🎨. I thrive on bringing designs to life with code 💻, ensuring a seamless and engaging interface 👨‍💻. However, I am equally eager to explore new technologies and environments as they emerge 🚀. My quick adaptability allows me to embrace challenges and opportunities 🌱, continuously expanding my skill set 📚. Whether it's delving into back-end frameworks 🛠️, cloud solutions ☁️, or innovative tools 🧰, I am committed to evolving and growing in the ever-changing tech landscape 🌍.
 
@@ -18,7 +18,8 @@ As a programmer, I have a deep passion for front-end development 🌐, where cre
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=JesusJimenezC&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=550&card_height=165)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesusJimenezC&layout=compact)
 
 ### :email: Contact Me
 
