@@ -18,7 +18,7 @@ As a programmer, I have a deep passion for front-end development 🌐, where cre
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JesusJimenezC&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=550&card_height=165)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JesusJimenezC&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=380&card_height=165&hide_longest_streak=true)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesusJimenezC&layout=compact)
 
 ### :email: Contact Me
