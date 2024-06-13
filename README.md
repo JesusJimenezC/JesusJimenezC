@@ -1,4 +1,5 @@
-## Jesus Jimenez Cordero | Software Developer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3189F7&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Jesus+Jimenez+Cordero;And+I'm+a+Software+Developer)](https://git.io/typing-svg)
+
 As a programmer, I have a deep passion for front-end development 🌐, where creativity and functionality meet to shape user experiences 🎨. I thrive on bringing designs to life with code 💻, ensuring a seamless and engaging interface 👨‍💻. However, I am equally eager to explore new technologies and environments as they emerge 🚀. My quick adaptability allows me to embrace challenges and opportunities 🌱, continuously expanding my skill set 📚. Whether it's delving into back-end frameworks 🛠️, cloud solutions ☁️, or innovative tools 🧰, I am committed to evolving and growing in the ever-changing tech landscape 🌍.
 
 # :toolbox: Tech Stack
@@ -17,8 +18,7 @@ As a programmer, I have a deep passion for front-end development 🌐, where cre
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-<h2>GitHub Stats</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=JesusJimenezC&amp;show_icons=true" alt="GitHub Stats"></p>
+
 
 ### :email: Contact Me
 
