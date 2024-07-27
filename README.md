@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4493F8&random=false&width=435&lines=Hello%2C+I'm+Jesus+Jimenez+Cordero;And+I'm+a+Software+Developer)](https://git.io/typing-svg)
-
 As a programmer, I have a deep passion for front-end development 🌐, where creativity and functionality meet to shape user experiences 🎨. I thrive on bringing designs to life with code 💻, ensuring a seamless and engaging interface 👨‍💻. However, I am equally eager to explore new technologies and environments as they emerge 🚀. My quick adaptability allows me to embrace challenges and opportunities 🌱, continuously expanding my skill set 📚. Whether it's delving into back-end frameworks 🛠️, cloud solutions ☁️, or innovative tools 🧰, I am committed to evolving and growing in the ever-changing tech landscape 🌍.
 
 # :toolbox: Tech Stack
