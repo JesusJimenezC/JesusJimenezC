@@ -22,4 +22,4 @@ As a programmer, I have a deep passion for front-end development 🌐, where cre
 
 ### Contact Info
 
-[![Protonmail](https://img.shields.io/badge/jesus.jimenezc.mx@proton.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:jesus.jimenez.mx@proton.me)
+[![Protonmail](https://img.shields.io/badge/jesus.jimenez.mx@proton.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:jesus.jimenez.mx@proton.me)
