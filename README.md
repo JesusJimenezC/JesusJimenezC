@@ -18,8 +18,6 @@ As a programmer, I have a deep passion for front-end development 🌐, where cre
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesusJimenezC&layout=compact)
-
 ### Contact Info
 
 [![Protonmail](https://img.shields.io/badge/jesus.jimenez.mx@proton.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:jesus.jimenez.mx@proton.me)
